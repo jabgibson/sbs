@@ -14,4 +14,4 @@
 .glide/
 
 #IDE stuff
-.idea/
+.idea/*
